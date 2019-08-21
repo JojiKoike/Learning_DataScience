@@ -12,6 +12,7 @@ scipy = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.7"
